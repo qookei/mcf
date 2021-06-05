@@ -1,0 +1,7 @@
+(fn func
+	(args (let a int))
+	(do
+		(= a (+ a 1))
+		(print a)
+	)
+)
