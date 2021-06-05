@@ -2,6 +2,7 @@
 name = "mcf"
 version = "0.1.0"
 authors = ["Kacper Słomiński <kacper.slominski72@gmail.com>"]
+license = "zlib"
 edition = "2018"
 
 [dependencies]
